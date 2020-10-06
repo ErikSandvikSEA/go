@@ -7,11 +7,6 @@ func main() {
 	fmt.Println(card)
 }
 
-func newCard() int {
-	return 10
-}
-
-
-func anotherCard() string {
-	return 'IDK'
+func newCard() string {
+	return "Five of Diamonds"
 }
